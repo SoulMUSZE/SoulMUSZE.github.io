@@ -1,0 +1,28 @@
+/* .jumbotron{
+    text-align: center;
+    color: white;
+} */
+
+/* .carousel-inner > .item > img {
+    width:640px;
+    height:360px;
+  } */
+
+  /* .carousel-inner > .carousel-item > img {
+    width:640px;
+    height:500px;
+  } */
+/* 
+  body{
+      background-color: darkslategray;
+  } */
+
+  .card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+.top-buffer{
+    margin-top: 20px;
+}
